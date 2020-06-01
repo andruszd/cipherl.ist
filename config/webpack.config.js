@@ -40,13 +40,14 @@ const plugins = [
     title: 'Mozilla SSL Configuration Generator',
     template: 'src/templates/index.ejs'
   }),
+    /*
   new CopyWebpackPlugin([
     {
       from: 'src/images',
       to: 'images/',
       flatten: false
     }
-  ]),
+  ]),*/
   new CopyWebpackPlugin([
     {
       from: 'config/CNAME',
