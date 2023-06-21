@@ -23,7 +23,7 @@
     "jquery": "^3.6.0",
     "highlight.js": "^9.18.5",
     "popper.js": "^1.16.1",
-    "semver": "^6.3.0"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
